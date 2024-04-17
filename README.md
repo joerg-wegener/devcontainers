@@ -1,6 +1,8 @@
-# Dev Container
+# Runs on my ~machine~ dev container
 
-Terminal based dev container with [zsh](https://sourceforge.net/projects/zsh/), [tmux](https://github.com/tmux/tmux/wiki) and [neovim](https://neovim.io/).
+- Isolated environment
+- Terminal based dev container with [zsh](https://sourceforge.net/projects/zsh/)
+- Fast and Productive with [tmux](https://github.com/tmux/tmux/wiki) and [neovim](https://neovim.io/)
 
 > **Disclaimer**
 >
